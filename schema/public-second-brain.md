@@ -14,7 +14,7 @@
 - 资产第二大脑：`quanttide-{资产类型}`（如 quanttide-journal、quanttide-bylaw），资产轴上的聚合载体
 - 双轴交点：`quanttide-{资产类型}-of-{领域英文名}`（领域第二大脑内按资产类型挂载的资产子仓库）
 
-**第四条** 法人主体资产位于主体轴与资产轴交点：`quanttide-{资产类型}-of-business-entity`。
+**第四条** 法人主体作为默认领域：主体资产以 `business-entity` 为默认领域，命名 `quanttide-{资产类型}-of-business-entity`（如 `quanttide-profile-of-business-entity`），对应主体轴与资产轴的交点。
 
 ## 第三章 仓库命名
 
