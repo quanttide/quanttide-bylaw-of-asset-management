@@ -4,6 +4,7 @@
 
 ### Changed
 - 重写 schema/second-brain.md：定位由务虚改为务实，标题改为《量潮第二大脑资产章程》，新增第六章仓库命名规则（领域/资产/主体/聚合容器/应用/工具集/实验室命名与挂载路径）
+- 进一步收敛 schema/second-brain.md：明确 GitHub 公开仓库为主要资产形态，只保留命名规范，资产图式概念不再重复（见 meta 章程）
 
 ### Fixed
 - index.md：修正 schema/second-brain.md 失效链接（原引用中文文件名）
