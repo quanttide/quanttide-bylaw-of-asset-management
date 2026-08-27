@@ -8,6 +8,7 @@
 - 挂载路径修正：实验室挂载路径由 `examples/default` 改为 `examples/`
 - 升级组织结构：挂载路径升级为双轴组织（领域轴 × 资产轴），命名规则穷举 20 类标准资产仓库，Platform 区分 `qt{}`（产品平台）与 `qtcloud-{}`（云平台）
 - 重写总则：自包含定位，不再引用其他章程
+- 文件更名为 `schema/public-second-brain.md`，标题改为《量潮公开第二大脑资产章程》：强调以 `quanttide/quanttide` 仓库为入口的第二大脑资产定义与维护规范
 
 ### Fixed
 - index.md：修正 schema/second-brain.md 失效链接（原引用中文文件名）
