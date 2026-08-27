@@ -12,7 +12,7 @@
 
 | 文件 | 用途 |
 |:----|:------|
-| [schema/second-brain.md](schema/second-brain.md) | 量潮第二大脑资产章程——GitHub 公开仓库命名规则（务实层；资产图式概念见 meta 章程） |
+| [schema/second-brain.md](schema/second-brain.md) | 量潮第二大脑资产章程——双轴组织与 20 类标准资产仓库命名（务实层；资产图式概念见 meta 章程） |
 
 ## 成员
 
