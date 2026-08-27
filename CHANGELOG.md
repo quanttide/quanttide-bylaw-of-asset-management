@@ -7,6 +7,7 @@
 - 进一步收敛 schema/second-brain.md：明确 GitHub 公开仓库为主要资产形态，只保留命名规范，资产图式概念不再重复（见 meta 章程）
 - 挂载路径修正：实验室挂载路径由 `examples/default` 改为 `examples/`
 - 升级组织结构：挂载路径升级为双轴组织（领域轴 × 资产轴），命名规则穷举 20 类标准资产仓库，Platform 区分 `qt{}`（产品平台）与 `qtcloud-{}`（云平台）
+- 重写总则：自包含定位，不再引用其他章程
 
 ### Fixed
 - index.md：修正 schema/second-brain.md 失效链接（原引用中文文件名）
