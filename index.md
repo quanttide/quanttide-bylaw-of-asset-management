@@ -12,8 +12,7 @@
 
 | 文件 | 用途 |
 |:----|:------|
-| [schema/second-brain.md](schema/second-brain.md) | 量潮第二大脑资产图式章程——第二大脑九宫格资产类型定义（务虚） |
-| [schema/repo-naming.md](schema/repo-naming.md) | 量潮GitHub仓库命名规范——各仓库的命名规则与挂载路径（务实） |
+| [schema/second-brain.md](schema/second-brain.md) | 量潮第二大脑资产章程——资产图式与 GitHub 仓库命名规则（务实层） |
 
 ## 成员
 

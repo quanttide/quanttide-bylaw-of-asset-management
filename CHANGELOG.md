@@ -2,8 +2,8 @@
 
 ## [Unreleased]
 
-### Added
-- 添加 schema/repo-naming.md（量潮GitHub仓库命名规范：领域/资产/主体/聚合容器/应用/工具集/实验室命名与挂载路径）
+### Changed
+- 重写 schema/second-brain.md：定位由务虚改为务实，标题改为《量潮第二大脑资产章程》，新增第六章仓库命名规则（领域/资产/主体/聚合容器/应用/工具集/实验室命名与挂载路径）
 
 ### Fixed
 - index.md：修正 schema/second-brain.md 失效链接（原引用中文文件名）
