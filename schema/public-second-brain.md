@@ -57,7 +57,7 @@
 | 资产类型 | 仓库命名 | 示例 |
 |:----|:----|:----|
 | Context 工作语境 | `quanttide-context-of-{领域英文名}` | quanttide-context-of-agent-engineering |
-| Archive 工作归档 | `quanttide-archive-of-{领域英文名}` | — |
+| Archive 工作归档 | `quanttide-archive-of-{领域英文名}` | quanttide-archive-of-business-entity |
 
 ## 第四章 组织结构
 
