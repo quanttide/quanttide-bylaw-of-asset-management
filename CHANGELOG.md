@@ -12,8 +12,10 @@
 - 条款重排：第三条并入总则第一二条，聚合容器并入第五条（领域第二大脑/资产第二大脑），法人主体并入第六条；「不占格资产」改名为「默认资产」；以「领域第二大脑」「资产第二大脑」替代模糊概念
 - 默认资产表补充 Archive 工作归档示例（quanttide-archive-of-business-entity）
 - 第四条补充法人主体作为默认领域（business-entity 为默认领域，主体资产命名统一归入 `-of-{领域英文名}` 规则）
+- 资产章程由 `schema/` 移至 `contract/`，标题改为《量潮公开第二大脑资产契约章程》
 
 ### Fixed
+- index.md：修正 contract/public-second-brain.md 失效链接（原引用 schema/ 路径）
 - index.md：修正 schema/second-brain.md 失效链接（原引用中文文件名）
 
 ## [v0.2.0] - 2025-04-21

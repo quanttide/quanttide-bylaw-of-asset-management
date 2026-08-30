@@ -12,7 +12,7 @@
 
 | 文件 | 用途 |
 |:----|:------|
-| [schema/public-second-brain.md](schema/public-second-brain.md) | 量潮公开第二大脑资产章程——以 quanttide/quanttide 为入口的资产定义与维护规范（双轴组织、20 类标准资产仓库命名） |
+| [contract/public-second-brain.md](contract/public-second-brain.md) | 量潮公开第二大脑资产契约章程——以 quanttide/quanttide 为入口的资产定义与维护规范（双轴组织、20 类标准资产仓库命名） |
 
 ## 成员
 
