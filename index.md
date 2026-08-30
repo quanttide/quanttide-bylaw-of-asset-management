@@ -13,6 +13,7 @@
 | 文件 | 用途 |
 |:----|:------|
 | [contract/public-second-brain.md](contract/public-second-brain.md) | 量潮公开第二大脑资产契约章程——以 quanttide/quanttide 为入口的资产定义与维护规范（双轴组织、20 类标准资产仓库命名） |
+| [contract/public-platform.md](contract/public-platform.md) | 量潮公开平台资产契约章程——云存储桶等基础设施资产的分类、生命周期与治理规范 |
 
 ## 成员
 
