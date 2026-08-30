@@ -2,8 +2,11 @@
 
 ## [Unreleased]
 
+## [v0.3.0] - 2026-08-30
+
 ### Added
-- 新增 contract/public-platform.md：量潮公开平台资产契约章程——云存储桶等基础设施资产的分类、生命周期与治理规范
+- 新增 contract/public-platform.md：量潮公开平台资产契约章程——Git 仓库（一个平台一个仓库，如 qtclass）与 S3 存储桶（Site/Studio/Provider/Private）的类别、命名与上架规范
+- 类别采用开放式枚举，以业务线前缀命名（qtclass-、qtdata-、qtcrowd-、qtcloud- 等）
 
 ### Changed
 - 重写 schema/second-brain.md：定位由务虚改为务实，标题改为《量潮第二大脑资产章程》，新增第六章仓库命名规则（领域/资产/主体/聚合容器/应用/工具集/实验室命名与挂载路径）
@@ -16,6 +19,7 @@
 - 默认资产表补充 Archive 工作归档示例（quanttide-archive-of-business-entity）
 - 第四条补充法人主体作为默认领域（business-entity 为默认领域，主体资产命名统一归入 `-of-{领域英文名}` 规则）
 - 资产章程由 `schema/` 移至 `contract/`，标题改为《量潮公开第二大脑资产契约章程》
+- index.md 组成表补充 contract/public-platform.md 索引
 
 ### Fixed
 - index.md：修正 contract/public-second-brain.md 失效链接（原引用 schema/ 路径）
