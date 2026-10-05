@@ -43,7 +43,7 @@
 | 资产类型 | 仓库命名 | 示例 |
 |:----|:----|:----|
 | Report 工作报告 | `quanttide-report-of-{领域英文名}` | quanttide-report-of-software-engineering |
-| Library 工作参考 | `quanttide-library-of-{领域英文名}` | quanttide-library-of-philosophy |
+| Library 工作参考 | `quanttide-library-of-{领域英文名}` | quanttide-library-of-meta-engineering |
 | History 工作历史 | `quanttide-history-of-{领域英文名}` | quanttide-history-of-devops |
 | Journal 工作日志 | `quanttide-journal-of-{领域英文名}` | quanttide-journal-of-crowd-sourcing |
 | Profile 工作档案 | `quanttide-profile-of-{领域英文名}` | quanttide-profile-of-course-development |
