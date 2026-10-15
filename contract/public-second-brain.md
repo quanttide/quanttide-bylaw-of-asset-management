@@ -11,10 +11,10 @@
 **第三条** 量潮公开第二大脑通过**领域第二大脑**与**资产第二大脑**双轴组织：
 
 - 领域第二大脑：`quanttide-{领域短名}`（如 quanttide-crowd、quanttide-learn），领域轴上的统一载体
-- 资产第二大脑：`quanttide-{资产类型}`（如 quanttide-journal、quanttide-bylaw），资产轴上的聚合载体
+- 资产第二大脑：`quanttide-{资产类型}`（如 quanttide-journal、quanttide-bylaw），范畴轴上的聚合载体
 - 双轴交点：`quanttide-{资产类型}-of-{领域英文名}`（领域第二大脑内按资产类型挂载的资产子仓库）
 
-**第四条** 法人主体作为默认领域：主体资产以 `business-entity` 为默认领域，命名 `quanttide-{资产类型}-of-business-entity`（如 `quanttide-profile-of-business-entity`），对应主体轴与资产轴的交点。
+**第四条** 法人主体作为默认领域：主体资产以 `business-entity` 为默认领域，命名 `quanttide-{资产类型}-of-business-entity`（如 `quanttide-profile-of-business-entity`），对应主体轴与范畴轴的交点。
 
 ## 第三章 仓库命名
 
@@ -61,7 +61,7 @@
 
 ## 第四章 组织结构
 
-**第七条** 领域第二大脑（领域轴与资产轴交点的载体）内部按统一结构组织：
+**第七条** 领域第二大脑（领域轴与范畴轴交点的载体）内部按统一结构组织：
 
 ```
 quanttide-{领域短名}/
@@ -75,7 +75,7 @@ quanttide-{领域短名}/
     ├── bylaw/ specification/ handbook/ gallery/ tutorial/ essay/
 ```
 
-**第八条** 资产第二大脑（资产轴聚合层）：`quanttide-{资产类型}` 容器按 `default/`（法人主体）与 `domains/`（领域）聚合对应资产子仓库，如 `quanttide-journal` 下挂 `default/company` 与 `domains/{agent, data, crowd, ...}`。
+**第八条** 资产第二大脑（范畴轴聚合层）：`quanttide-{资产类型}` 容器按 `default/`（法人主体）与 `domains/`（领域）聚合对应资产子仓库，如 `quanttide-journal` 下挂 `default/company` 与 `domains/{agent, data, crowd, ...}`。
 
 ## 第五章 附则
 
