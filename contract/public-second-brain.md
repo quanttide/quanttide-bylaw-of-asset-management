@@ -35,7 +35,7 @@
 | Gallery 工作案例 | `quanttide-gallery-of-{领域英文名}` | quanttide-gallery-of-course-development |
 | Platform 平台 | `qt{产品名}`（产品平台）或 `qtcloud-{产品名}`（云平台） | qtcrowd、qtclass；qtcloud-learn、qtcloud-course |
 | Tutorial 工作教程 | `quanttide-tutorial-of-{领域英文名}` | quanttide-tutorial-of-course-development |
-| Essay 工作札记 | `quanttide-essay-of-{领域英文名}` | quanttide-essay-of-course-development |
+| Essay 论文 | `quanttide-essay-of-{领域英文名}` | quanttide-essay-of-course-development |
 | Example 示例程序 | `quanttide-laboratory-of-{领域英文名}` | quanttide-laboratory-of-crowdsourcing-management |
 
 **陈述型记忆九宫格（9 类）：**
@@ -50,13 +50,13 @@
 | Brochure 宣传册 | `quanttide-brochure-of-{领域英文名}` | quanttide-brochure-of-course-development |
 | Roadmap 路线图 | `quanttide-roadmap-of-{领域英文名}` | quanttide-roadmap-of-learning-management |
 | Insight 工作洞察 | `quanttide-insight-of-{领域英文名}` | quanttide-insight-of-product-development |
-| Intention 工作意图 | `quanttide-intention-of-{领域英文名}` | quanttide-intention-of-crowd-sourcing |
+| Intention 愿景 | `quanttide-intention-of-{领域英文名}` | quanttide-intention-of-crowd-sourcing |
 
 **默认资产（2 类）：**
 
 | 资产类型 | 仓库命名 | 示例 |
 |:----|:----|:----|
-| Context 工作语境 | `quanttide-context-of-{领域英文名}` | quanttide-context-of-agent-engineering |
+| Context 上下文 | `quanttide-context-of-{领域英文名}` | quanttide-context-of-agent-engineering |
 | Archive 工作归档 | `quanttide-archive-of-{领域英文名}` | quanttide-archive-of-business-entity |
 
 ## 第四章 组织结构
