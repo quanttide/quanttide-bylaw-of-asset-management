@@ -2,6 +2,9 @@
 
 ## [Unreleased]
 
+### Removed
+- 移除 contract/：第二大脑与平台两份资产契约章程降级为资产类别，迁入案例集（gallery）
+
 ## [v0.3.0] - 2026-08-30
 
 ### Added

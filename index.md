@@ -8,12 +8,10 @@
 
 ## 组成
 
-本章程包含以下文件：
+本章程为治理纲领，不设附属文件。原 contract/ 目录下的两份资产契约章程已降级为资产类别，迁入案例集 quanttide-gallery-of-asset-management：
 
-| 文件 | 用途 |
-|:----|:------|
-| [contract/public-second-brain.md](contract/public-second-brain.md) | 量潮公开第二大脑资产契约章程——以 quanttide/quanttide 为入口的资产定义与维护规范（双轴组织、20 类标准资产仓库命名） |
-| [contract/public-platform.md](contract/public-platform.md) | 量潮公开平台资产契约章程——云存储桶等基础设施资产的分类、生命周期与治理规范 |
+- 量潮第二大脑资产类别（category/second-brain.md）
+- 量潮平台资产类别（category/platform.md）
 
 ## 成员
 
